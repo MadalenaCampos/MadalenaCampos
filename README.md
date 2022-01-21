@@ -1,6 +1,6 @@
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Madalena Campos</h1>
 
-- 🔭 Desenvolvedor Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
+- 🔭 Desenvolvedora Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
 - 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a> e <a href="https://pt-br.reactjs.org/"><b>React</b></a>.
 - 🇧🇷 Morando no Brasil / Ceará.
 
