@@ -2,8 +2,8 @@
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- 🔭 Desenvolvedora Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
-- 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
+- 👩🏻‍💻 Desenvolvedora Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet 💙🧡</b></a>.
+- 🥰 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
 - 🇧🇷 Morando no Brasil / Ceará.
 
  <div>
@@ -24,6 +24,7 @@
     <img align="center" alt="marcos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
     <img align="center" alt="marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="marcos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="center" alt="marcos-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
   </div>  
 </div>
 
