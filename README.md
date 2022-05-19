@@ -1,5 +1,9 @@
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Madalena Campos</h1>
 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 - 🔭 Desenvolvedora Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet</b></a>.
 - 📌 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
 - 🇧🇷 Morando no Brasil / Ceará.
