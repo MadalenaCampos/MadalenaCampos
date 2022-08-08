@@ -18,7 +18,7 @@
    
 </div>
  
-## 💻 **Linguagens e Ferramentas**  
+## 💻 **O que sei**  
 <br>
 <div align="center">
   <div style="display: inline_block">
@@ -36,6 +36,16 @@
    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
    <img width="50" src="https://img.alicdn.com/tfs/TB1g.mWZAL0gK0jSZFtXXXQCXXa-200-200.svg" />
    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ </div>
+</div>
+ 
+ ## ✅ **Já utilizei**  
+<br>
+<div align="center">
+  <div style="display: inline_block">
+   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+   <img width="50" src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" />
  </div>
 </div>
 
