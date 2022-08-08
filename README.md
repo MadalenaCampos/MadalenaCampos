@@ -23,9 +23,8 @@
 <br>
 <div align="center">
   <div style="display: inline_block">
-  
-            
-            <i class="devicon-css3-plain-wordmark colored"></i>
+   
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
           
   </div>  
 </div>
