@@ -24,6 +24,9 @@
 <div align="center">
   <div style="display: inline_block">
   
+            
+            <i class="devicon-css3-plain-wordmark colored"></i>
+          
   </div>  
 </div>
 
