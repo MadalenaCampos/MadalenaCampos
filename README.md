@@ -22,6 +22,7 @@
 <br>
 <div align="center">
   <div style="display: inline_block">
+   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
  </div>
 </div>
