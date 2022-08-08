@@ -1,12 +1,12 @@
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Madalena Campos</h1> <br>
+<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Madalena Campos</h1>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /><br>
+<img align="left" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - 👩🏻‍💻 Desenvolvedora Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet 💙🧡</b></a>.
 - 🥰 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
 - 🇧🇷 Morando no Brasil / Ceará.
 
- <div>
+ <div display = "flex" >
   <a href="https://github.com/MadalenaCampos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadalenaCampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadalenaCampos&layout=compact&langs_count=7&theme=dracula"/>
