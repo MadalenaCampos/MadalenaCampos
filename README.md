@@ -8,7 +8,7 @@
 - 🇧🇷 Morando no Brasil / Ceará.
 - 🥳 21 anos.
 
- <div style="display: inline_block">
+ <div style="display: flex; width: 80%;">
  
   <a href="https://github.com/MadalenaCampos">
    
