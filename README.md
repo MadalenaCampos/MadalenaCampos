@@ -4,9 +4,11 @@
 
 - 👩🏻‍💻 Desenvolvedora Frontend na <a href="https://www.brisanet.com.br/"><b>Brisanet 💙🧡</b></a>.
 - 🥰 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
+- 🎓 Cursando Sistema de informação.
 - 🇧🇷 Morando no Brasil / Ceará.
+- 🥳 21 anos.
 
- <div align="left">
+ <div style="display: inline_block">
  
   <a href="https://github.com/MadalenaCampos">
    
@@ -21,16 +23,7 @@
 <br>
 <div align="center">
   <div style="display: inline_block">
-    <img align="center" alt="marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="marcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="marcos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-    <img align="center" alt="marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="marcos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="marcos-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-   <img align="center" alt="marcos-CSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-   <img align="center" alt="marcos-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+  
   </div>  
 </div>
 
