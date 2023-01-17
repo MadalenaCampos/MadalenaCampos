@@ -6,7 +6,7 @@
 - 🥰 Atualmente trabalhando com <a href="https://angular.io/"><b>Angular</b></a>.
 - 🎓 Cursando Sistema de informação.
 - 🇧🇷 Morando no Brasil / Ceará.
-- 🥳 21 anos.
+- 🥳 22 anos.
 
  <div>
  
