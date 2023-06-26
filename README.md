@@ -7,14 +7,10 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mim***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Trabalhando na **Brisanet** com **Angular**<br>
+✔ Passando o tempo livre com o **React**<br>
+✔ Morando em **Juazeiro do Norte -CE**<br>
+✔ Cursando **Sistema de informação**<br>
+✔ Apenas **22 ano** e sempre disposta a aprender coisas novas<br>
