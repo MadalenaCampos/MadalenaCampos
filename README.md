@@ -5,6 +5,9 @@
        alt="snake" /></a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Sobre mim**
 
 ✔ Trabalhando na **Brisanet** com **Angular**<br>
@@ -19,8 +22,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,scss,ts,js,angular,react,vite,jest,git,github,figma,vscode&perline=14" />
   </a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalenacampos&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Quer conversar?**
 
