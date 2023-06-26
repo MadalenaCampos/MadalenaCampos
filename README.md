@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadalenaCampos&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madalenacampos&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Quer conversar?**
 
