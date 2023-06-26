@@ -16,6 +16,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Quer conversar?***
 
  <div  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/madalena-campos-0948621b3/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mada_camposs/"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
  </div>
