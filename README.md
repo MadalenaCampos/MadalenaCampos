@@ -15,7 +15,7 @@
 ✔ Cursando **Sistema de informação**<br>
 ✔ Apenas **22 ano** e sempre disposta a aprender coisas novas<br>
 
-<h3 > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Quer conversar? </h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">**Quer conversar?**
 
 <p >
 
