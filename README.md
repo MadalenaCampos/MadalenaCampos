@@ -12,7 +12,7 @@
 ✔ Morando em **Juazeiro do Norte -CE**<br>
 ✔ Cursando **Sistema de informação**<br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**O que eu sei**
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Algumas coisas que sei**
 
 <p>
   <a href="https://skillicons.dev">
