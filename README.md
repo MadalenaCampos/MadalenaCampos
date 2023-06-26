@@ -5,14 +5,22 @@
        alt="snake" /></a>
 </div>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mim***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Sobre mim**
 
 ✔ Trabalhando na **Brisanet** com **Angular**<br>
 ✔ Passando o tempo livre com o **React**<br>
 ✔ Morando em **Juazeiro do Norte -CE**<br>
 ✔ Cursando **Sistema de informação**<br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Quer conversar?***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Tecnologias que eu sei**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Quer conversar?**
 
  <div  class="icons-social" style="margin-left: 10px;">
 	<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mada_camposs/"><img src="https://images.vexels.com/media/users/3/234936/isolated/preview/85203a00a47ece014681d25dd729b899-personagem-de-logotipo-do-instagram-fofo.png" width="50px"></a>
