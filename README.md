@@ -5,7 +5,7 @@
        alt="snake" /></a>
 </div>
 
-<img src="https://i.gifer.com/YAg6.gif" width="30px">&nbsp;***Sobre mim***
+<img src="https://i.gifer.com/VeC.gif" width="30px">&nbsp;***Sobre mim***
 
 ✔ Trabalhando na **Brisanet** com **Angular**<br>
 ✔ Passando o tempo livre com o **React**<br>
