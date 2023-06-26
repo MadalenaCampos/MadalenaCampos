@@ -11,7 +11,6 @@
 ✔ Passando o tempo livre com o **React**<br>
 ✔ Morando em **Juazeiro do Norte -CE**<br>
 ✔ Cursando **Sistema de informação**<br>
-✔ Apenas **22 ano** e sempre disposta a aprender coisas novas<br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Quer conversar?***
 
