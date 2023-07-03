@@ -9,10 +9,10 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Sobre mim**
 
-✔ Trabalhando na **Brisanet** com **Angular**<br>
-✔ Passando o tempo livre com o **React**<br>
-✔ Morando em **Juazeiro do Norte -CE**<br>
-✔ Cursando **Sistema de informação**<br>
+✔  Trabalhando na **Brisanet** com **Angular**<br>
+✔  Passando o tempo livre com o **React**<br>
+✔  Morando em **Juazeiro do Norte -CE**<br>
+✔  Cursando **Sistema de informação**<br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Algumas coisas que sei**
 
